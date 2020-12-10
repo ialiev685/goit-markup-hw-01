@@ -1,2 +1,1 @@
-# goit-markup-hw-01
-homework_1
+https://ialiev685.github.io/goit-markup-hw-01/
